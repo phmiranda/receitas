@@ -1,0 +1,11 @@
+# comentário.
+.idea/
+.vscode/
+
+# comentário.
+setup/__pycache__/
+venv/
+
+# comentário.
+*.iml
+*.log
