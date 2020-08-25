@@ -5,6 +5,7 @@
 # comentário.
 setup/__pycache__/
 venv/
+.env
 
 # comentário.
 *.iml
