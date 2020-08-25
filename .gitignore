@@ -4,6 +4,8 @@
 
 # comentário.
 setup/__pycache__/
+receitas/__pycache__/
+receitas/migrations/__pycache__/
 venv/
 .env
 
